@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# LibreOffice temp/lock files
+.~lock*
+
+# Raw dictionaries (too large)
+english/words_alpha.txt
+russian/russian.txt
+
+# Generated word lists (re-creatable)
+english/words_*.txt
+russian/words_*.txt
+russian/words_*_utf8.txt
+english/words_*_utf8.txt
